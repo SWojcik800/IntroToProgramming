@@ -105,7 +105,7 @@ void Z5() {
 			cout << _a + " - " + _b + " = " + result;
 			break;
 		}
-		case '* ':
+		case '*':
 		{
 			string result = to_string(a * b);
 			cout << _a + " * " + _b + " = " + result;
