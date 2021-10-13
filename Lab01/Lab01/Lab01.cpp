@@ -64,6 +64,7 @@ float avg(int n) {
 		return -1;
 	}
 
+	cout << "Podaj elementy \n";
 	float sum = 0;
 	float tmp = 0;
 	for (int i = 0; i < n; i++)
@@ -81,7 +82,7 @@ void Z5() {
 	a = 0;
 	b = 0;
 	cout << "Z5 \n";
-	cout << "Dzialania: +,-,*,/ \n";
+	cout << "Dzialania: +,-,*,/, s \n";
 	cout << "Podaj symbol działania: \n", cin >> option;
 
 	if (option != 's') 
