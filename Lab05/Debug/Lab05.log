@@ -1,0 +1,6 @@
+﻿  Lab05.cpp
+C:\Users\Ldvs\Desktop\IntroToProgramming\IntroToProgramming\Lab05\Lab05.cpp(20,7): warning C4101: 'znaki': unreferenced local variable
+C:\Users\Ldvs\Desktop\IntroToProgramming\IntroToProgramming\Lab05\Lab05.cpp(19,6): warning C4101: 'liczby': unreferenced local variable
+C:\Users\Ldvs\Desktop\IntroToProgramming\IntroToProgramming\Lab05\Lab05.cpp(94,10): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+C:\Users\Ldvs\Desktop\IntroToProgramming\IntroToProgramming\Lab05\Lab05.cpp(94,10): warning C4566: character represented by universal-character-name '\u015B' cannot be represented in the current code page (1252)
+  Lab05.vcxproj -> C:\Users\Ldvs\Desktop\IntroToProgramming\IntroToProgramming\Lab05\Debug\Lab05.exe
