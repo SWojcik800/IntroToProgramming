@@ -1,0 +1,5 @@
+﻿  Lab06.cpp
+C:\Users\Ldvs\Desktop\IntroToProgramming\IntroToProgramming\Lab06\Lab06.cpp(11,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ldvs\Desktop\IntroToProgramming\IntroToProgramming\Lab06\Lab06.cpp(33,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ldvs\Desktop\IntroToProgramming\IntroToProgramming\Lab06\Lab06.cpp(57): warning C4715: 'LiczbaPierwsza': not all control paths return a value
+  Lab06.vcxproj -> C:\Users\Ldvs\Desktop\IntroToProgramming\IntroToProgramming\Lab06\Debug\Lab06.exe
