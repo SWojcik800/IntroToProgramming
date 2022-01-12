@@ -1,0 +1,6 @@
+﻿  Lab08.cpp
+C:\Users\Ldvs\Desktop\IntroRepo\IntroToProgramming\Lab08\Lab08.cpp(59,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ldvs\Desktop\IntroRepo\IntroToProgramming\Lab08\Lab08.cpp(139): warning C4172: returning address of local variable or temporary: result
+C:\Users\Ldvs\Desktop\IntroRepo\IntroToProgramming\Lab08\Lab08.cpp(149): warning C4172: returning address of local variable or temporary: result
+C:\Users\Ldvs\Desktop\IntroRepo\IntroToProgramming\Lab08\Lab08.cpp(158): warning C4172: returning address of local variable or temporary: result
+  Lab08.vcxproj -> C:\Users\Ldvs\Desktop\IntroRepo\IntroToProgramming\Lab08\Debug\Lab08.exe
